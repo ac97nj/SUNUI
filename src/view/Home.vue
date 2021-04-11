@@ -5,7 +5,7 @@
       <h1>Totoro-UI</h1>
       <h2>基于 Vue 3开发的极简UI框架</h2>
       <p class="actions">
-        <a href="https://github.com/FrankFang/GEIUHH6wQRwj/commit/">GitHub</a>
+        <a href="https://github.com/ac97nj/SUNUI">GitHub</a>
         <router-link to="/doc">开始</router-link>
       </p>
     </div>
